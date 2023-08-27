@@ -1,5 +1,3 @@
-package meteo;
-
 import java.time.*;
 
 public class MS200 implements MeteoSensor {
